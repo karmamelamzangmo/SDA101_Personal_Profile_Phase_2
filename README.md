@@ -23,7 +23,7 @@ This is a personal portfolio website showcasing Karma Melam Zangmo's skills as a
 
 ```
 karma-melam-zangmo-portfolio/
-├── image.html
+├── index.html
 ├── image.css
 ├── instagram-icon.png
 ├── tiktok-icon.png
